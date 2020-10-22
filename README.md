@@ -1,4 +1,5 @@
 ![LuisFOsG's github stats](https://github-readme-stats.vercel.app/api?username=LuisFOsG&show_icons=true&theme=dark&show_owner=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFOsG&layout=compact)
 ---------------
 ---------------
 ![Banner sin Net](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif "Sin Net")
