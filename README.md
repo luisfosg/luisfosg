@@ -1,5 +1,6 @@
-### Hi there 👋
+[![LuisFOsG's github stats](https://github-readme-stats.vercel.app/api?username=LuisFOsG)]
 
+![Banner sin Net](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif "Sin Net")
 <!--
 **LuisFOsG/LuisFOsG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
