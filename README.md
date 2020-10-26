@@ -1,7 +1,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisFOsG&repo=Cliente-GitHub-API&theme=react)](https://github.com/LuisFOsG/Cliente-GitHub-API)
 ---------------
-![LuisFOsG's github stats](https://github-readme-stats.vercel.app/api?username=LuisFOsG&show_icons=true&theme=dark&show_owner=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFOsG&layout=compact&bg_color=547B7D&title_color=E0E6E6&text_color=AFF3F3)
+![LuisFOsG's github stats](https://github-readme-stats.vercel.app/api?username=LuisFOsG&show_icons=true&theme=dark&show_owner=true)
 ---------------
 ---------------
 ![Banner sin Net](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif "Sin Net")
