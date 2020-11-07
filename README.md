@@ -1,7 +1,6 @@
 ***Trabajando En:***
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisFOsG&repo=Consulta-Medica&theme=react)](https://github.com/LuisFOsG/Consulta-Medica)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisFOsG&repo=graficas-chartjs&theme=react)](https://github.com/LuisFOsG/graficas-chartjs)
+Privado.
 ---------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFOsG&layout=compact&bg_color=547B7D&title_color=E0E6E6&text_color=AFF3F3)
 ![LuisFOsG's github stats](https://github-readme-stats.vercel.app/api?username=LuisFOsG&show_icons=true&theme=dark&show_owner=true)
