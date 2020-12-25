@@ -28,5 +28,4 @@ Here are some ideas to get you started:
 </details>
 
 ---------------
----------------
 ![Banner sin Net](https://github.com/LuisFOsG/LuisFOsG/blob/main/img/dino.gif "Sin Net")
