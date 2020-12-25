@@ -1,10 +1,10 @@
 
-<center>
+<p align="center">
 
 <!-- En Prueba -->
 [![github](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=ShieldStyle)][1]
 
-</center>
+</p>
 
 [1]: https://github.com/LuisFOsG
 
