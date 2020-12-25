@@ -24,10 +24,8 @@ Here are some ideas to get you started:
   <summary>😄 GitHub Stats</summary>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFOsG&layout=compact&bg_color=547B7D&title_color=E0E6E6&text_color=AFF3F3)
-
 ![LuisFOsG's github stats](https://github-readme-stats.vercel.app/api?username=LuisFOsG&show_icons=true&theme=dark&count_private=true&show_owner=true&hide=stars&include_all_commits=true)
 ---------------
 ---------------
 ![Banner sin Net](https://github.com/LuisFOsG/LuisFOsG/blob/main/img/dino.gif "Sin Net")
 </details>
-
