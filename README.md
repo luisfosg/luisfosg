@@ -1,12 +1,9 @@
-
-<p align="center">
-
 <!-- En Prueba -->
-[![github](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=ShieldStyle)][1]
-
+<p align="center">
+  <a href="https://github.com/LuisFOsG">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=ShieldStyle">
+  </a>
 </p>
-
-[1]: https://github.com/LuisFOsG
 
 ---------------
 
