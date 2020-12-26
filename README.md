@@ -1,6 +1,7 @@
 <!-- En Prueba -->
 <p align="center">
   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="50">
+  <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="50">
 </p>
 
 ---------------
