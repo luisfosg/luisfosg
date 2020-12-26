@@ -1,8 +1,6 @@
 <!-- En Prueba -->
 <p align="center">
-  <a href="https://github.com/LuisFOsG">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=ShieldStyle">
-  </a>
+  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="50">
 </p>
 
 ---------------
