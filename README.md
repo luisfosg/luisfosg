@@ -4,9 +4,27 @@
   <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="50">
 </p>
 
+
 ---------------
 
+<details>
+  <summary>😄 GitHub Stats</summary>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFOsG&langs_count=7&hide=Hack&layout=compact&bg_color=547B7D&title_color=E0E6E6&text_color=AFF3F3)
+![LuisFOsG's github stats](https://github-readme-stats.vercel.app/api?username=LuisFOsG&show_icons=true&theme=dark&count_private=true&show_owner=true&hide=stars&include_all_commits=true)
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luisfosg&" alt="luisfosg" />
+</p>
+
+</details>
+
+---------------
+![Banner sin Net](/img/dino.gif "Sin Net")
+
 <!--
+Mas cosas :v
+
 <details>
   <summary>😄 Languages and Tools</summary>
 
@@ -28,18 +46,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-
-<details>
-  <summary>😄 GitHub Stats</summary>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFOsG&layout=compact&bg_color=547B7D&title_color=E0E6E6&text_color=AFF3F3)
-![LuisFOsG's github stats](https://github-readme-stats.vercel.app/api?username=LuisFOsG&show_icons=true&theme=dark&count_private=true&show_owner=true&hide=stars&include_all_commits=true)
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luisfosg&" alt="luisfosg" />
-</p>
-
-</details>
-
----------------
-![Banner sin Net](/img/dino.gif "Sin Net")
