@@ -20,7 +20,11 @@
 </details>
 
 ---------------
-![Banner sin Net](/img/dino.gif "Sin Net")
+<p align="center">
+
+<img src="./img/dino.gif" />
+
+</p>
 
 <!--
 Mas cosas :v
