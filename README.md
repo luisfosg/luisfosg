@@ -1,4 +1,4 @@
-<img src="./img/banner.png" style="width: 100%; height: 100px" />
+<img src="./img/banner.png" width="100%" height="100px" />
 
 <p align="center">
   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="50">
