@@ -1,4 +1,4 @@
-<div style="height: 100px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-11.00,68.58 C100.17,250.16 271.49,-49.98 504.79,112.00 L500.00,0.00 L0.00,0.00 Z" style="stroke: none; fill: #067e7b;"></path></svg></div>
+<img src="./img/banner.png" style="width: 100%; height: 100px" />
 
 <p align="center">
   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="50">
