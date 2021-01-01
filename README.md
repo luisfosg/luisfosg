@@ -9,6 +9,7 @@
 <details>
   <summary>🤔 Info</summary>
 
+------
 <img src="https://komarev.com/ghpvc/?username=luisfosg&label=Profile%20views&color=0e75b6&style=flat" alt="luisfosg" />
 
 - 🌱 I’m currently learning **ReactJS, Javascript and Python**
