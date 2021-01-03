@@ -9,7 +9,7 @@
 <details>
   <summary>🤔 Info</summary>
 
-------
+<h1 align="center">Hi 👋, I'm Luis Osorio</h1>
 
 - 🌱 I’m currently learning **ReactJS, Javascript and Python**
 
@@ -38,12 +38,9 @@
 
 </p>
 
+
 <!--
-Mas cosas :v
-
-**LuisFOsG/LuisFOsG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Mas cosas a tener en cuenta :0
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
