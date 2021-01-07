@@ -6,12 +6,14 @@
 </p>
 
 ---------------
+
 <details>
   <summary>🤔 Info</summary>
 
 <h1 align="center">Hi 👋, I'm Luis Osorio</h1>
 
-- 🌱 I’m currently learning **ReactJS, Javascript and Python**
+- 🌱 I’m currently learning **ReactJS, Javascript and Python.**
+- 👯 I’m looking to collaborate on **Projects that promote self-learning.**
 
 </details>
 
