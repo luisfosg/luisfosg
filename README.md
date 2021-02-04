@@ -22,12 +22,12 @@
 <details>
   <summary>😄 GitHub Stats</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFOsG&langs_count=6&layout=compact&bg_color=547B7D&title_color=E0E6E6&text_color=AFF3F3)
-![LuisFOsG's github stats](https://github-readme-stats.vercel.app/api?username=LuisFOsG&show_icons=true&theme=dark&count_private=true&show_owner=true&hide=stars&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFOsG&langs_count=6&layout=compact&theme=gotham)
+![LuisFOsG's github stats](https://github-readme-stats.vercel.app/api?username=LuisFOsG&show_icons=true&theme=gotham&count_private=true&show_owner=true&hide=stars&include_all_commits=true)
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luisfosg&" alt="luisfosg" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luisfosg&theme=gotham" alt="luisfosg" />
 
 </p>
 
@@ -36,10 +36,7 @@
 ---------------
 <p align="center">
 
-<img src="./img/dino.gif" />
-
-</p>
-
+<img src="./img/banner.gif" />
 
 <!--
 Mas cosas a tener en cuenta :0
