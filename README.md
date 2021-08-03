@@ -6,7 +6,7 @@
 
 ---------------
 
-<img align="right" width="300" height="170" src="./img/profile-gif.gif" />
+<img align="right" width="300" height="150" src="./img/profile-gif.gif" />
 
 ```js
 const profileLuisFOsG = () => {
