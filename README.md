@@ -6,7 +6,7 @@
 
 ---------------
 
-<img align="right" width="300" height="150" src="./img/profile-gif.gif" />
+<img align="right" width="200" height="150" src="./img/computer.png" />
 
 ```js
 const profileLuisFOsG = () => {
@@ -32,9 +32,11 @@ const profileLuisFOsG = () => {
 
 ---------------
 
-<p align="center">
-  <img src="./img/computer.png" />
-</p>
+### Links of Interest
+
+🐦 [twitter](https://twitter.com/IILuisFOsG) **|**
+🌑 [codepen](https://codepen.io/luisfosg) **|**
+☕ [ko-fi](https://ko-fi.com/luisfosg)
 
 <!--
 Mas cosas a tener en cuenta :0
@@ -51,7 +53,6 @@ Mas cosas a tener en cuenta :0
 #### Redes Sociales
 
 🏡 [website][website] **|**
-🐦 [twitter][twitter] **|**
 📺 [youtube][youtube] **|**
 📷 [instagram][instagram] **|**
 👔 [linkedin][linkedin]
