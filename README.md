@@ -1,42 +1,40 @@
 <img src="./img/banner.png" width="100%" height="100px" />
 
 <p align="center">
-  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="50">
-  <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="50">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---------------
 
-<details>
-  <summary>🤔 Info</summary>
+<img align="right" width="300" height="170" src="./img/profile-gif.gif" />
 
-<h1 align="center">Hi 👋, I'm Luis Osorio</h1>
+```js
+const profileLuisFOsG = () => {
+    const e = "Self-learning Programmer Developer";
+    let langs = ["Español"];
 
-- 🌱 I’m currently learning **ReactJS, Javascript and Python.**
-- 👯 I’m looking to collaborate on **Projects that promote self-learning.**
-
-</details>
+    const learning = ["JavaScript", "React", "English"]
+}
+```
 
 ---------------
 
 <details>
   <summary>😄 GitHub Stats</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFOsG&langs_count=6&layout=compact&theme=gotham)
-![LuisFOsG's github stats](https://github-readme-stats.vercel.app/api?username=LuisFOsG&show_icons=true&theme=gotham&count_private=true&show_owner=true&include_all_commits=true)
+---------------
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luisfosg&theme=gotham" alt="luisfosg" />
-
-</p>
+  <div align="center" width="100%">
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=luisfosg&theme=gotham" alt="LuisFOsG"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=LuisFOsG&show_icons=true&theme=gotham&count_private=true&show_owner=true&include_all_commits=true" alt="LuisFOsG's github stats">
+  </div>
 
 </details>
 
 ---------------
-<p align="center">
 
-<img src="./img/banner.gif" />
+<p align="center">
+  <img src="./img/computer.png" />
+</p>
 
 <!--
 Mas cosas a tener en cuenta :0
@@ -49,5 +47,13 @@ Mas cosas a tener en cuenta :0
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+#### Redes Sociales
+
+🏡 [website][website] **|**
+🐦 [twitter][twitter] **|**
+📺 [youtube][youtube] **|**
+📷 [instagram][instagram] **|**
+👔 [linkedin][linkedin]
 
 -->
