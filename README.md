@@ -25,7 +25,7 @@ const profileLuisFOsG = () => {
 ---------------
 
   <div align="center" width="100%">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=luisfosg&theme=gotham" alt="LuisFOsG"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=LuisFOsG&show_icons=true&theme=gotham&count_private=true&show_owner=true&include_all_commits=true" alt="LuisFOsG's github stats">
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=luisfosg&theme=nord" alt="LuisFOsG"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=LuisFOsG&show_icons=true&theme=nord&count_private=true&show_owner=true&include_all_commits=true" alt="LuisFOsG's github stats">
   </div>
 
 </details>
