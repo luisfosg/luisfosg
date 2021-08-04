@@ -34,7 +34,6 @@ const profileLuisFOsG = () => {
 
 ### Links of Interest
 
-🐦 [twitter](https://twitter.com/IILuisFOsG) **|**
 🌑 [codepen](https://codepen.io/luisfosg) **|**
 ☕ [ko-fi](https://ko-fi.com/luisfosg)
 
@@ -53,6 +52,7 @@ Mas cosas a tener en cuenta :0
 #### Redes Sociales
 
 🏡 [website][website] **|**
+🐦 [twitter][twitter] **|**
 📺 [youtube][youtube] **|**
 📷 [instagram][instagram] **|**
 👔 [linkedin][linkedin]
