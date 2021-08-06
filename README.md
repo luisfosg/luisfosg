@@ -6,21 +6,24 @@
 
 ---------------
 
-<img align="right" width="200" height="150" src="./img/computer.png" />
+<img align="right" width="300" height="200" src="./img/computer.png" />
 
 ```js
-const profileLuisFOsG = () => {
-    const e = "Self-learning Programmer Developer";
-    let langs = ["Español"];
+const LuisFOsG = {
+  hi: "Hi 😄, I'm Luis Osorio",
 
-    const learning = ["JavaScript", "React", "English"]
-}
+  e: 'Self-learning Programmer Developer',
+  langs: ['Español'],
+  learning: ['JavaScript', 'React', 'English'],
+};
+
+console.log(LuisFOsG.hi);
 ```
 
 ---------------
 
 <details>
-  <summary>😄 GitHub Stats</summary>
+  <summary>🤔 GitHub Stats</summary>
 
 ---------------
 
