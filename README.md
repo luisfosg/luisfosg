@@ -39,7 +39,7 @@ console.log(LuisFOsG.hi);
 
 ### Links of Interest
 
-🌑 [codepen](https://codepen.io/luisfosg) **|**
+🌑 [codesignal](https://app.codesignal.com/profile/luisfosg) **|**
 ☕ [ko-fi](https://ko-fi.com/luisfosg)
 
 <!--
