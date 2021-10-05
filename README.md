@@ -1,6 +1,5 @@
 <a href="https://github.com/LuisFOsG" >
   <img src=".assets/banner.svg" />
-
   <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </p>
@@ -14,7 +13,7 @@
 const LuisFOsG = {
   hi: "Hi 😄, I'm Luis Osorio",
 
-  e: 'Self-learning Programmer Developer',
+  e: 'Enthusiastic Programmer',
   langs: ['Español'],
   learning: ['JavaScript', 'React', 'English'],
 };
