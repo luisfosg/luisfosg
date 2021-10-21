@@ -38,6 +38,7 @@ console.log(LuisFOsG.hi);
 
 ### Links of Interest
 
+📫 [dev.to](https://dev.to/luisfosg) **|**
 🌑 [codesignal](https://app.codesignal.com/profile/luisfosg) **|**
 ☕ [ko-fi](https://ko-fi.com/luisfosg)
 
