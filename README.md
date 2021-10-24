@@ -36,7 +36,7 @@ console.log(LuisFOsG.hi);
 
 ---------------
 
-### Links of Interest
+[![Links of Interest](https://readme-typing-svg.herokuapp.com?font=Rubik&color=%235EA6F7&size=25&vCenter=true&height=25&lines=%3E+Links+of+Interest)](https://github.com/LuisFOsG)
 
 📫 [dev.to](https://dev.to/luisfosg) **|**
 🌑 [codesignal](https://app.codesignal.com/profile/luisfosg) **|**
