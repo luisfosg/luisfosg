@@ -7,7 +7,7 @@
 
 ---------------
 
-<img align="right" width="300" height="200" src=".assets/computer.png" />
+<img align="right" width="300" height="200" src="https://placedog.net/300/200?random" />
 
 ```js
 const LuisFOsG = {
