@@ -23,21 +23,9 @@ console.log(LuisFOsG.hi);
 
 ---------------
 
-<details>
-  <summary>🤔 GitHub Stats</summary>
+[![Links of Interest](https://readme-typing-svg.herokuapp.com?font=Rubik&color=%235EA6F7&size=25&vCenter=true&height=25&lines=%3E+Links+of+Interest)](https://github.com/LuisFOsG)
 
----------------
-
-  <div align="center" width="100%">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=luisfosg&theme=nord" alt="LuisFOsG"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=LuisFOsG&show_icons=true&theme=nord&count_private=true&show_owner=true&include_all_commits=true" alt="LuisFOsG's github stats">
-  </div>
-
-</details>
-
----------------
-
-### Links of Interest
-
+📫 [dev.to](https://dev.to/luisfosg) **|**
 🌑 [codesignal](https://app.codesignal.com/profile/luisfosg) **|**
 ☕ [ko-fi](https://ko-fi.com/luisfosg)
 
