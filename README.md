@@ -15,7 +15,7 @@ const LuisFOsG = {
 
   e: 'Enthusiastic Programmer 👾',
   langs: ['Español'],
-  learning: ['JavaScript', 'React', 'React Native', 'NextJS', 'English'],
+  learning: ['React', 'React Native', 'NextJS', 'English'],
 };
 
 console.log(LuisFOsG.hi);
