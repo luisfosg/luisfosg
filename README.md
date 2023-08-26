@@ -10,7 +10,7 @@
 <img align="right" width="300" height="200" src="https://place-puppy.com/300x200?random" />
 
 ```js
-const LuisFOsG = {
+const luisfosg = {
   hi: "Hi 😄, I'm Luis Osorio",
 
   e: 'Enthusiastic Programmer 👾',
@@ -18,7 +18,7 @@ const LuisFOsG = {
   learning: ['React', 'React Native', 'NextJS', 'English'],
 };
 
-console.log(LuisFOsG.hi);
+console.log(luisfosg.hi);
 ```
 
 ---------------
