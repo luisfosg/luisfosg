@@ -1,8 +1,9 @@
 <img src=".assets/banner.svg" />
 <p align="center">
-  <img width="30" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763">
+  <img width="30" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img width="30" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img width="30" src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" />
 </p>
 
 ---------------
