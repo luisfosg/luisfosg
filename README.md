@@ -8,7 +8,7 @@
 
 ---------------
 
-<img align="right" width="300" height="200" src="https://place-puppy.com/300x200?random" />
+<img align="right" width="300" height="200" src="https://placedog.net/300/200?random" />
 
 ```js
 const luisfosg = {
@@ -26,8 +26,6 @@ console.log(luisfosg.hi);
 <!--
 
 [![Links of Interest](https://readme-typing-svg.herokuapp.com?font=Rubik&color=%235EA6F7&size=25&vCenter=true&height=25&lines=%3E+Links+of+Interest)](https://github.com/LuisFOsG)
-
-Mas cosas a tener en cuenta :0
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
