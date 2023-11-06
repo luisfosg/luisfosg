@@ -8,7 +8,7 @@
 
 ---------------
 
-<img align="right" width="300" height="200" src="https://placedog.net/300/200?random" />
+<img align="right" width="250" height="250" src=".assets/preview.png" />
 
 ```js
 const luisfosg = {
